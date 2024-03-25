@@ -2,16 +2,14 @@
 title: "Frank Hermosillo"
 image: "frank.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/stargazer2k18"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:prasanthkumar2k612@gmail.com"
 output:
   postcards::trestles
+site:
+  distill::create_website
 ---
  
 ## Bio
