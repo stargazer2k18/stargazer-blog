@@ -6,7 +6,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/prasanthkumar2801/"
 output: 
-  postcards::trestles
+  postcards::jolla
 site: distill:distill_website
 ---
 
