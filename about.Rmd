@@ -9,7 +9,7 @@ links:
 output:
   postcards::trestles
 site:
-  distill::create_website
+  distill::distill_website
 ---
  
 ## Bio
